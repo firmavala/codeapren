@@ -1,1 +1,1 @@
-console.log("Hola JS")
+console.log("Hola JS nuevo")
